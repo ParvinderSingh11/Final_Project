@@ -127,3 +127,17 @@ td
 {
     font-family: cursive;
 }
+#signup
+{
+    top: 136px;
+    left: 1250px;
+    font-size: 30px;
+    position: absolute;
+   
+    text-decoration:none;
+}
+.SignUp:hover
+{
+    color: red;
+    font-size: 40px;
+}
